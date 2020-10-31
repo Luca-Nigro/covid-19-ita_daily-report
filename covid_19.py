@@ -168,7 +168,7 @@ def plot_forecast(store):
     plt.xlabel('giorni')
     plt.ylabel('')
     plt.legend()
-    plt_title = 'previsions_giorno_'+str(store.giorni[-1])
+    plt_title = 'previsione_giorno_'+str(store.giorni[-1])
     plt.savefig('Pictures/'+plt_title+'.png')
     plt.show()
     fig_nr += 1
