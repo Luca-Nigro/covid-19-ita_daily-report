@@ -125,6 +125,8 @@ def plot_log(store):
     plt.xlabel('log')
     plt.ylabel('')
     plt.legend()
+    plt_title = 'situazione_giorno_'+str(store.giorni[-1])
+    plt.savefig('Pictures/'+plt_title+'.png')
     plt.show()
     fig_nr += 1
 
@@ -166,6 +168,8 @@ def plot_forecast(store):
     plt.xlabel('giorni')
     plt.ylabel('')
     plt.legend()
+    plt_title = 'previsions_giorno_'+str(store.giorni[-1])
+    plt.savefig('Pictures/'+plt_title+'.png')
     plt.show()
     fig_nr += 1
 
