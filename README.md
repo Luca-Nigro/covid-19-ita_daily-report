@@ -8,7 +8,7 @@ Simply type:
 `python covid_19.py`
 
 ## documentation:
-The html [documetation](covid_19.m.html) was generated using [**pdoc**](https://pdoc3.github.io/pdoc/)
+The  [documetation](covid_19_doc.pdf) was generated initially in html using [**pdoc**](https://pdoc3.github.io/pdoc/)
 and later converted to pdf using [**pdfkit**](https://pypi.org/project/pdfkit/).
 For others python documentation tools see [DocumentationTools](https://wiki.python.org/moin/DocumentationTools)
 
