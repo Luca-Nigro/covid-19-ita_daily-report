@@ -11,6 +11,7 @@ matplotlib==3.3.2
 numpy==1.19.3
 pandas==1.1.4
 patsy==0.5.1
+pdfkit==0.6.1
 pdoc==0.3.2
 Pillow==8.0.1
 pyparsing==2.4.7

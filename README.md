@@ -8,8 +8,9 @@ Simply type:
 `python covid_19.py`
 
 ## documentation:
-[documetation](covid_19.m.html) generated using [**pdoc**](https://pdoc3.github.io/pdoc/)
-for others python documentation tools see [DocumentationTools](https://wiki.python.org/moin/DocumentationTools)
+The html [documetation](covid_19.m.html) was generated using [**pdoc**](https://pdoc3.github.io/pdoc/)
+and later converted to pdf using [**pdfkit**](https://pypi.org/project/pdfkit/).
+For others python documentation tools see [DocumentationTools](https://wiki.python.org/moin/DocumentationTools)
 
 ## notes:
 The [data source](https://github.com/pcm-dpc/COVID-19/blob/master/dati-json/dpc-covid19-ita-andamento-nazionale.json) 
